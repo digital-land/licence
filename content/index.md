@@ -1,3 +1,4 @@
 ---
 title: Licences
+list: pages
 ---
