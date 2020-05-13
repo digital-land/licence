@@ -1,3 +1,3 @@
 ---
-title: Sample page for Content Template
+title: Licences
 ---
